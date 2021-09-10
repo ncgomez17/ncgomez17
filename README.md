@@ -13,10 +13,10 @@
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-homura.gif"/> Connect with me:
 
 [<img align="left" alt="ncgomez17" width="22px" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/web.svg" />][website]
-[<img align="left" alt="ncgomez17In | Twitter" width="22px" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/twiter.svg" />][twitter]
-[<img align="left" alt="ncgomez17In | Github" width="22px" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/github.svg" />][github]
-[<img align="left" alt="ncgomez17In | Instagram" width="22px" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/instagram.svg" />][instagram]
-
+[<img align="left" alt="ncgomez17 | Twitter" width="22px" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/twitter.svg" />][twitter]
+[<img align="left" alt="ncgomez17 | Github" width="22px" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/github.svg" />][github]
+[<img align="left" alt="ncgomez17 | Instagram" width="22px" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/instagram.svg" />][instagram]
+<br />
 <br />
 
 <img width="250" height="250" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/tenor.gif"/>

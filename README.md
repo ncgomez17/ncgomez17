@@ -18,6 +18,13 @@
 
 <br />
 
+<img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
+<p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/jaykali/count.svg" />
+</p>
+
 [website]: https://ncgomez17.github.io/PersonalPage/
 [twitter]: https://twitter.com/niquinho_cid
 [github]: https://github.com/ncgomez17

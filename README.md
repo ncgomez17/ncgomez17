@@ -10,7 +10,7 @@
   - 🌱 I’m currently learning Deep Learning and Data Analysis.
   - 💬 We can talk about all programming topics .
 
-### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-homura.gif"/> Connect with me:
+### <img height="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"/> Connect with me:
 
 [<img align="left" alt="ncgomez17" width="22px" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/web.svg" />][website]
 [<img align="left" alt="ncgomez17 | Twitter" width="22px" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/twitter.svg" />][twitter]

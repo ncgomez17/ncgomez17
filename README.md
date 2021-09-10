@@ -1,8 +1,16 @@
-### Hi there, I'm [Ncgomez17!](https://ncgomez17.github.io/PersonalPage/) 
+<div align="center">
+  <h1> 
+    Hi there, I'm Ncgomez17!<a href="https://ncgomez17.github.io/PersonalPage/"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div> 
 
 <p align="center">
   <img width="260" height="346" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/one_piece.gif">
 </p>
+
+<div align="center">
+<h3> 💻 Software Engineer | Full Stack developer | 🌏 Ourense, Galicia |Studying the master's degree in computer engineering at Uvigo </h3> 
+</div>
+</br>
 
 
 ### I am currently training as a fullstack developer and doing the master's degree in computer engineering at Uvigo while I work.!
@@ -18,6 +26,15 @@
 [<img align="left" alt="ncgomez17 | Instagram" width="22px" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/instagram.svg" />][instagram]
 <br />
 <br />
+</p>
+
+#
+![Profile views](https://gpvc.arturio.dev/ncgomez17)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlgomez73&layout=compact&langs_count=10" />
+</div>
+
 
 <img width="250" height="250" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/tenor.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ncgomez17&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ncgomez17's GitHub Stats" />

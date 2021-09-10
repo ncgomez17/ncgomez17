@@ -18,11 +18,11 @@
 
 <br />
 
-<img width="250" height="250" src="https://raw.githubusercontent.com/jaykali/jaykali/master/kali%20dragon.gif"/>
-<img src="https://github-readme-stats.vercel.app/api?username=jaykali&&show_icons=true&theme=radical&line_height=27&v=5" alt="JayKali's GitHub Stats" />
+<img width="250" height="250" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/ncgomez17/tenor.gif"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ncgomez17&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ncgomez17's GitHub Stats" />
 <p align="center"> 
   <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/jaykali/count.svg" />
+  <img src="https://profile-counter.glitch.me/ncgomez17/count.svg" />
 </p>
 
 [website]: https://ncgomez17.github.io/PersonalPage/

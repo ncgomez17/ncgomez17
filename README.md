@@ -1,8 +1,11 @@
 ### Hi there, I'm [Ncgomez17!](https://ncgomez17.github.io/PersonalPage/) 
+
 <p align="center">
   <img width="260" height="346" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/one_piece.gif">
 </p>
-## I am currently training as a fullstack developer and doing the master's degree in computer engineering at Uvigo while I work.!
+
+
+### I am currently training as a fullstack developer and doing the master's degree in computer engineering at Uvigo while I work.!
  - 🔭 I’m currently working on my [Website](https://ncgomez17.github.io/PersonalPage/)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
   - 🌱 I’m currently learning Deep Learning and Data Analysis.
   - 💬 We can talk about all programming topics .

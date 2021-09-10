@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hi there, I'm [Ncgomez17!](https://ncgomez17.github.io/PersonalPage/) 
 <!--
 <p align="center">

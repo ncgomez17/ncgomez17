@@ -12,13 +12,14 @@
 
 ### <img height="30" src="https://raw.githubusercontent.com/jaykali/jaykali/master/soulgem-homura.gif"/> Connect with me:
 
-[<img align="left" alt="kalilinux.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="kalilinuxIn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kalilinuxIn | Medium" width="22px" src="https://raw.githubusercontent.com/jaykali/jaykali/master/github.png" />][github]
+[<img align="left" alt="ncgomez17" width="22px" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/web.svg" />][website]
+[<img align="left" alt="ncgomez17In | Twitter" width="22px" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/twiter.svg" />][twitter]
+[<img align="left" alt="ncgomez17In | Github" width="22px" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/github.svg" />][github]
+[<img align="left" alt="ncgomez17In | Instagram" width="22px" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/instagram.svg" />][instagram]
 
 <br />
 
-<img width="250" height="250" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/ncgomez17/tenor.gif"/>
+<img width="250" height="250" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/tenor.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ncgomez17&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ncgomez17's GitHub Stats" />
 <p align="center"> 
   <b>Visitor count</b><br>

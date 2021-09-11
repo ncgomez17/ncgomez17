@@ -32,7 +32,7 @@
 ![Profile views](https://gpvc.arturio.dev/ncgomez17)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmlgomez73&layout=compact&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncgomez17&layout=compact&langs_count=10" />
 </div>
 
 

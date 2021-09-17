@@ -16,6 +16,7 @@
 ### I am currently training as a fullstack developer and doing the master's degree in computer engineering at Uvigo while I work.!
  - 🔭 I’m currently working on my [Website](https://ncgomez17.github.io/PersonalPage/)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
   - 🌱 I’m currently learning Deep Learning and Data Analysis.
+  - 💬 Right now I am working as a fullstack developer with react and spring(Java framework) .
   - 💬 We can talk about all programming topics .
 
 ### <img height="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"/> Connect with me:
@@ -42,6 +43,15 @@
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/ncgomez17/count.svg" />
 </p>
+#
+
+<div align="center">
+  <img title="Ncomgez17 streak" alt="Ncomgez17 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ncgomez17&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</div>
+
+#
+
+<a href="https://github.com/jmlgomez73"><img alt="Ncomgez17 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ncgomez17&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 [website]: https://ncgomez17.github.io/PersonalPage/
 [twitter]: https://twitter.com/niquinho_cid

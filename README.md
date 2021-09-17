@@ -43,7 +43,6 @@
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/ncgomez17/count.svg" />
 </p>
-#
 
 <div align="center">
   <img title="Ncomgez17 streak" alt="Ncomgez17 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ncgomez17&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>

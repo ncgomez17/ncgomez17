@@ -1,6 +1,6 @@
 <div align="center">
   <h1> 
-    Hi there, I'm Ncgomez17!<a href="https://ncgomez17.github.io/PersonalPage/"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+    Hi there, I'm Ncgomez17!<a href="https://ncgomez17.github.io/PersonalPage/"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3px"></h1>
 </div> 
 
 <p align="center">

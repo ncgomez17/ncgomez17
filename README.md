@@ -13,7 +13,7 @@
 </br>
 <p align="center"> <!--- P tag to align contents -->
   <a href="https://open.spotify.com/user/nico9cid" align="center" > <!--- Spotify currently playing and last played with link to Spotify Account -->
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=nico9cid&cover_image=true&theme=default&bar_color_cover=true" align="center" alt="Spotify Now playing and recently played"/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=nico9cid&cover_image=true&theme=default" align="center" alt="Spotify Now playing and recently played"/>
   </a><!--- Spotify currently playing and last played with link to Spotify Account -->
 </p>
 

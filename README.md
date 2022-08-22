@@ -11,6 +11,11 @@
 <h3> 💻 Software Engineer | Full Stack developer | 🌏 Ourense, Galicia |Studying the master's degree in computer engineering at Uvigo </h3> 
 </div>
 </br>
+<p align="center"> <!--- P tag to align contents -->
+  <a href="https://open.spotify.com/user/afcd2cec739742bf" align="center" > <!--- Spotify currently playing and last played with link to Spotify Account -->
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=afcd2cec739742bf&cover_image=true&theme=default&bar_color_cover=true" align="center" alt="Spotify Now playing and recently played"/>
+  </a><!--- Spotify currently playing and last played with link to Spotify Account -->
+</p>
 
 
 ### I am currently training as a fullstack developer and doing the master's degree in computer engineering at Uvigo while I work.!

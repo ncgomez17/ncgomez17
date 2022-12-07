@@ -56,7 +56,7 @@
 
 #
 
-<a href="https://github.com/jmlgomez73"><img alt="Ncomgez17 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ncgomez17&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ncgomez17"><img alt="Ncgomez17 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ncgomez17&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 [website]: https://ncgomez17.github.io/PersonalPage/
 [twitter]: https://twitter.com/niquinho_cid

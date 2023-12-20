@@ -35,15 +35,10 @@
 <br />
 </p>
 
-#
-![Profile views](https://gpvc.arturio.dev/ncgomez17)
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncgomez17&layout=compact&langs_count=10" />
 </div>
 
-
-<img width="250" height="250" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/tenor.gif"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ncgomez17&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ncgomez17's GitHub Stats" />
 <p align="center"> 
   <b>Visitor count</b><br>

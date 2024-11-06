@@ -12,10 +12,13 @@
 </div>
 </br>
 <h2 align="center">🎧Music🎧</h2> <!--- Level 2 Heading to align contents -->
-<p align="center"> <!--- P tag to align contents -->
-  <a href="https://open.spotify.com/user/nico9cid" align="center" > <!--- Spotify currently playing and last played with link to Spotify Account -->
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=nico9cid&cover_image=true&theme=default" align="center" alt="Spotify Now playing and recently played"/>
-  </a><!--- Spotify currently playing and last played with link to Spotify Account -->
+<p align="center">
+  <!-- Enlace a la cuenta de Spotify -->
+  <a href="https://open.spotify.com/user/nico9cid" align="center">
+    <!-- Imag![spoti](https://github.com/user-attachments/assets/a454351a-d0b6-40a2-8c15-80801a11a2ee)
+en JPEG estática de tu perfil o lo que quieras mostrar -->
+    <img src="![spoti](https://github.com/user-attachments/assets/a454351a-d0b6-40a2-8c15-80801a11a2ee)" align="center" alt="Spotify Profile or Currently Playing"/>
+  </a>
 </p>
 
 

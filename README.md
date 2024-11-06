@@ -17,7 +17,7 @@
   <a href="https://open.spotify.com/user/nico9cid" align="center">
     <!-- Imag![spoti](https://github.com/user-attachments/assets/a454351a-d0b6-40a2-8c15-80801a11a2ee)
 en JPEG estática de tu perfil o lo que quieras mostrar -->
-    <img src="https://github.com/ncgomez17/ncgomez17/raw/master/spoti.jpg" align="center" alt="Spotify Profile or Currently Playing" style="width: 50%; height: 50%;"/>
+    <img src="https://github.com/ncgomez17/ncgomez17/raw/master/spoti.jpg" align="center" alt="Spotify Profile or Currently Playing" style="width: 10%; height: 10%;"/>
   </a>
 </p>
 

@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-<h3> 💻 Software Engineer 🌏 Madrid, Spain |Studying the master's degree in computer engineering at Uvigo and working as a computer engineer in the Spanish tax agency. </h3> 
+<h3> 💻 Software Engineer 🌏 Galicia, Spain |Studying the master's degree in computer engineering at Uvigo and working as a computer engineer in the Spanish tax agency. </h3> 
 </div>
 </br>
 <h2 align="center">🎧Music🎧</h2> <!--- Level 2 Heading to align contents -->

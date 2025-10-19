@@ -38,12 +38,16 @@ en JPEG estática de tu perfil o lo que quieras mostrar -->
 <br />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncgomez17&layout=compact&langs_count=10" />
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ncgomez17&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ncgomez17's GitHub Stats" />
-</div>
+<details open>
+<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=ncgomez17&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
+    <img alt="ncgomez17 profile Trophy's" src="https://github-profile-trophy.vercel.app/?username=ncgomez17&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
+    <img alt="ncgomez17 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ncgomez17&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+	<div align="center">
+	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncgomez17&layout=compact&theme=transparent"/>
+	    <img src="https://github-readme-stats.vercel.app/api?username=ncgomez17&show_icons=true&theme=transparent"/>
+	    <img alt="ncgomez17's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=ncgomez17&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+	</div>
+</details>
 
 #
 

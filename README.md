@@ -1,7 +1,6 @@
-<div align="center">
-  <h1> 
-    Hi there, I'm Ncgomez17!<a href="https://ncgomez17.github.io/PersonalPage/"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3px"></h1>
-</div> 
+<p align="center">
+  <img src="https://socialify.git.ci/ncgomez17/ncgomez17/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
+</p>
 
 <p align="center">
   <img width="260" height="346" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/one_piece.gif">

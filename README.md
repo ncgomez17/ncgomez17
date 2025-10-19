@@ -41,14 +41,6 @@ en JPEG estática de tu perfil o lo que quieras mostrar -->
     <img src="https://github.com/ncgomez17/ncgomez17/raw/master/spoti.jpg" align="center" alt="Spotify Profile or Currently Playing" style="width: 25%; height: 25%;"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=b9404d975e064333&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
-
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=b9404d975e064333&count=5">
-</p>
 
 
 ### I am currently training as a fullstack developer and doing the master's degree in computer engineering at Uvigo while I work.!

@@ -6,6 +6,26 @@
 <p align="center">
   <img width="260" height="346" src="https://raw.githubusercontent.com/ncgomez17/ncgomez17/master/one_piece.gif">
 </p>
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
 
 <div align="center">
 <h3> 💻 Software Engineer 🌏 Galicia, Spain |Studying the master's degree in computer engineering at Uvigo and working as a computer engineer in the Spanish tax agency. </h3> 
@@ -45,7 +65,6 @@ en JPEG estática de tu perfil o lo que quieras mostrar -->
 	<div align="center">
 	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncgomez17&layout=compact&theme=transparent"/>
 	    <img src="https://github-readme-stats.vercel.app/api?username=ncgomez17&show_icons=true&theme=transparent"/>
-	    <img alt="ncgomez17's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=ncgomez17&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
 	</div>
 </details>
 

@@ -69,8 +69,9 @@ en JPEG estática de tu perfil o lo que quieras mostrar -->
 	    <img src="https://github-readme-stats.vercel.app/api?username=ncgomez17&show_icons=true&theme=transparent"/>
 	</div>
 </details>
-### 📫 Connect With Me
+---
 
+## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-cid-gomez)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ncgomez17.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ncgomez17)

@@ -27,6 +27,8 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
+![Git](https://img.shields.io/badge/-Android-000?&logo=Git)
+![VS Code](https://img.shields.io/badge/-Android-000?&logo=VSCode)
 
 <div align="center">
 <h3> 💻 Software Engineer 🌏 Galicia, Spain |Studying the master's degree in computer engineering at Uvigo and working as a computer engineer in the Spanish tax agency. </h3> 
@@ -60,14 +62,18 @@ en JPEG estática de tu perfil o lo que quieras mostrar -->
 </p>
 
 <details open>
-<summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=ncgomez17&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
-    <img alt="ncgomez17 profile Trophy's" src="https://github-profile-trophy.vercel.app/?username=ncgomez17&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
+<summary><h3>📊 Statistics | </h3> </summary>
     <img alt="ncgomez17 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ncgomez17&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 	<div align="center">
 	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncgomez17&layout=compact&theme=transparent"/>
 	    <img src="https://github-readme-stats.vercel.app/api?username=ncgomez17&show_icons=true&theme=transparent"/>
 	</div>
 </details>
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-cid-gomez)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ncgomez17.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ncgomez17)
 
 #
 

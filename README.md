@@ -27,8 +27,8 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
-![Git](https://img.shields.io/badge/-Android-000?&logo=Git)
-![VS Code](https://img.shields.io/badge/-Android-000?&logo=VSCode)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![VS Code](https://img.shields.io/badge/-VSCode-000?&logo=VSCode)
 
 <div align="center">
 <h3> 💻 Software Engineer 🌏 Galicia, Spain |Studying the master's degree in computer engineering at Uvigo and working as a computer engineer in the Spanish tax agency. </h3> 

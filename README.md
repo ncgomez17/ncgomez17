@@ -61,15 +61,12 @@ en JPEG estática de tu perfil o lo que quieras mostrar -->
 <br />
 </p>
 
-<details open>
-<summary><h3>📊 Statistics | </h3> </summary>
-    <img alt="ncgomez17 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ncgomez17&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-	<div align="center">
-	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncgomez17&layout=compact&theme=transparent"/>
-	    <img src="https://github-readme-stats.vercel.app/api?username=ncgomez17&show_icons=true&theme=transparent"/>
-	</div>
-</details>
----
+## 📊 GitHub Stats
+<img alt="ncgomez17 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ncgomez17&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncgomez17&layout=compact&theme=transparent"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=ncgomez17&show_icons=true&theme=transparent"/>
+</div>
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-cid-gomez)
